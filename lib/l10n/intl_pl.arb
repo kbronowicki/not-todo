@@ -1,0 +1,15 @@
+{
+  "notTodo": "NotTodo",
+  "noTasks": "Brak zadań na {where, select, today{dzisiaj} day{ten dzień}}.",
+  "settings": "Ustawienia",
+  "deleteAllData": "Usuń wszystkie dane",
+  "calendar": "Kalendarz",
+  "createNewNotTodo": "Utwórz nowe NotTodo",
+  "updateExistingNotTodo": "Zaktualizuj istniejące NotTodo",
+  "delete": "Usuń",
+  "task": "Zadanie",
+  "date": "Data",
+  "addNotTodo": "Dodaj NotTodo",
+  "updateNotTodo": "Zaktualizuj NotTodo",
+  "taskEmpty": "Zadanie nie może być puste."
+}
