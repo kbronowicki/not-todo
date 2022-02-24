@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
     return BlocProvider(
       create: (context) => NotTodoCubit(),
       child: MaterialApp(
+        // debugShowCheckedModeBanner: false,
         title: 'Not Todo',
         localizationsDelegates: const [
           S.delegate,
