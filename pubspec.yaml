@@ -1,5 +1,5 @@
 name: not_todo
-description: Not Todo List with sqlite database.
+description: Not Todo List
 
 publish_to: 'none'
 
