@@ -8,9 +8,9 @@ NotTodo is fully Flutter app with database, state management, internationalizati
 
 ### Technologies used
 
-- Sqflite database
-- Cubit state management
-- Intl internationalization
+- **Sqflite** - database
+- **Cubit** - state management
+- **Intl** - internationalization
 
 ### Features
 
@@ -26,12 +26,16 @@ NotTodo is fully Flutter app with database, state management, internationalizati
     <tr align='center'>
         <td>Home Screen</td>
         <td>Calendar Screen</td>
-        <td>Add NotTodo</td>
-        <td>Edit NotTodo</td>
     </tr>
     <tr>
         <td><img src='/../screenshots/screenshots/home_screen.png'></td>
         <td><img src='/../screenshots/screenshots/calendar_screen.png'></td>
+    </tr>
+    <tr align='center'>
+        <td>Add NotTodo</td>
+        <td>Edit NotTodo</td>
+    </tr>
+    <tr>
         <td><img src='/../screenshots/screenshots/add_not_todo.png'></td>
         <td><img src='/../screenshots/screenshots/edit_not_todo.png'></td>
     </tr>
